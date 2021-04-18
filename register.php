@@ -112,11 +112,9 @@ if (isset($_POST['submit'])) {
           <li class="nav-item">
             <a class="nav-link" href="logout.php">Log out</a>
           </li>
+          
           <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="login.php">log in</a>
+            <a class="nav-link active" aria-current="page" href="login.php">Log in</a>
           </li>
         </ul>
         <form class="d-flex">

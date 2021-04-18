@@ -126,7 +126,7 @@
           <div class="carousel-caption">
             <h1>Ekspertenes råd</h1>
             <p>Vi hjelper deg med å navigere karrieren din ved hjelp av profesjonelle med erfaring.</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Les mer</a></p>
+            <p><a class="btn btn-lg btn-primary" href="https://barbie.mattel.com/shop">Les mer</a></p>
           </div>
         </div>
       </div>

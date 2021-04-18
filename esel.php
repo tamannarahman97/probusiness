@@ -82,7 +82,7 @@
           </li>
          
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="login.php">og in</a>
+            <a class="nav-link active" aria-current="page" href="login.php">Log in</a>
           </li>
         </ul>
         <form class="d-flex">
@@ -97,7 +97,8 @@
 <main>
 <p padding="70px" margin="70px">
   
-<h2 >Tilbudet er utløpt, du tok for lang tid til å komme hit.</h2>
+<h2 >Bilde ditt er ikke godkjent</h2>
+<a class="nav-link active" aria-current="page" href="https://images.pexels.com/photos/2849308/pexels-photo-2849308.jpeg?auto=compress">Klikk her for å komme til ditt profilbilde</a>
 </p>
 
 

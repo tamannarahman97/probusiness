@@ -80,7 +80,7 @@
             <a class="nav-link active" aria-current="page" href=" https://www.google.com/search?q=home">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="logout.php">Log out</a>
+            <a class="nav-link" href="esel.<?php?>">Log out</a>
           </li>
         
           <li class="nav-item">
